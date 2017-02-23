@@ -1,11 +1,11 @@
 pico-8 cartridge // http://www.pico-8.com
 version 8
 __lua__
--- tower noire
--- by cow
+-- Plantas-Medicadas
+-- el homosiguiente
 
 function _init()
-	log = {{0,"welcome to tower noire."},{0,"a game by cow."}}
+	log = {{0,"Plantas Medicadas."},{0,"un juego del homosiguiente."}}
 	-- entity descriptions:
 	-- 1: type
 	-- 		0 block
